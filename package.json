@@ -1,0 +1,27 @@
+{
+  "name": "acmebotazure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threebrick/acmebotazure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/threebrick/acmebotazure/issues"
+  },
+  "homepage": "https://github.com/threebrick/acmebotazure#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "http": "0.0.0",
+    "request": "^2.81.0",
+    "restify": "^4.3.0",
+    "util": "^0.10.3",
+    "xmldoc": "^1.1.0"
+  }
+}
