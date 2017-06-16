@@ -124,9 +124,9 @@ savedAddress = session.message.address;
 			      
                     
 			
- //                message2 = 'Try accessing this url ';
- // message2 += 'http://localhost/agentapp/session_details.php?id=' + session.message.address.id + '&channelid=' + session.message.address.channelId + '&username=' + session.message.address.user.name + '&userid=' + session.message.address.user.id + '&conversationid=' + session.message.address.conversation.id + '&botid=' + session.message.address.bot.id + '&botname=' + session.message.address.bot.name + '&serviceurl=' + session.message.address.serviceUrl;
- // session.send(message2);  
+                 message2 = 'Try accessing this url ';
+  message2 += 'http://localhost/agentapp/session_details.php?id=' + session.message.address.id + '&channelid=' + session.message.address.channelId + '&username=' + session.message.address.user.name + '&userid=' + session.message.address.user.id + '&conversationid=' + session.message.address.conversation.id + '&botid=' + session.message.address.bot.id + '&botname=' + session.message.address.bot.name + '&serviceurl=' + session.message.address.serviceUrl;
+  session.send(message2);  
                  
 
                    
